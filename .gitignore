@@ -1,2 +1,7 @@
 node_modules
 .cache
+.gitignore
+index.html
+package-lock.json
+package.json
+style.scss
